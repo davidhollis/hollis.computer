@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hollis.computer</title>
+    <link>https://hollis.computer/</link>
+    <description>Recent content on hollis.computer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 David Hollis</copyright>
+    <lastBuildDate>Mon, 30 Aug 2021 00:05:45 +0000</lastBuildDate><atom:link href="https://hollis.computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hollis</title>
+      <link>https://hollis.computer/</link>
+      <pubDate>Mon, 30 Aug 2021 00:05:45 +0000</pubDate>
+      
+      <guid>https://hollis.computer/</guid>
+      <description>Hello, this is the home page.</description>
+      <content>&lt;p&gt;Hello, this is the home page.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

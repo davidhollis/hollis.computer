@@ -11,10 +11,6 @@
             <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
           </h2>
 
-          <pre>
-            {{ .Params }}
-          </pre>
-
           {{ with .Params.links }}
             <span class="post-tags">
               {{ range $title, $url := . }}

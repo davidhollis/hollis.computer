@@ -1,14 +1,10 @@
-+++
-title = "Accountability"
-date = "2021-08-29T23:08:57Z"
-author = ""
-authorTwitter = "david_hollis"
-cover = ""
-tags = []
-keywords = []
-description = ""
-showFullContent = false
-+++
+---
+title: "Accountability"
+date: "2021-08-29T23:08:57Z"
+author: "hollis"
+authorTwitter: "david_hollis"
+draft: false
+---
 
 I'm creating this blog in part as an accountability tool for myself.
 

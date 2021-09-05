@@ -41,7 +41,9 @@ theme = "terminal"
         identifier = "home"
         name = "home"
         url = "/"
+        weight = 1
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "blog"
         url = "/posts"
+        weight = 2

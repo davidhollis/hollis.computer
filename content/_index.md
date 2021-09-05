@@ -10,11 +10,11 @@ I'm a software developer in Seattle who also does some tabletop gaming and cooki
 
 You can reach me via:
 
-**email**&nbpsp;&nbpsp;&nbpsp;&nbpsp;[david@hollis.computer](mailto:david@hollis.computer)  
-**twitter**&nbpsp;&nbpsp;[@david_hollis](https://twitter.com/david_hollis)  
-**github**&nbpsp;&nbpsp;&nbpsp;[davidhollis](https://github.com/davidhollis)
+- **email:** [david@hollis.computer](mailto:david@hollis.computer)  
+- **twitter:** [@david_hollis](https://twitter.com/david_hollis)  
+- **github:** [davidhollis](https://github.com/davidhollis)
 
 You can find (woefully out of date) info about my other hobbies at:
 
-**cooking**&nbpsp;&nbpsp;[thyme enough at last](https://thymeenoughatlast.com/)
-**gaming**&nbpsp;&nbpsp;&nbpsp;[sconeforge mystic](https://sconeforgemystic.com/) (this also has some scone recipes)
+- [thyme enough at last](https://thymeenoughatlast.com/) (cooking)
+- [sconeforge mystic](https://sconeforgemystic.com/) (tabletop gaming (also some scone recipes))

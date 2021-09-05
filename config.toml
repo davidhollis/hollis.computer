@@ -38,6 +38,10 @@ theme = "terminal"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "posts"
+        identifier = "home"
+        name = "home"
+        url = "/"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "blog"
         url = "/posts"

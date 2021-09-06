@@ -18,3 +18,8 @@ You can find (woefully out of date) info about my other hobbies at:
 
 - [thyme enough at last](https://thymeenoughatlast.com/) (cooking)
 - [sconeforge mystic](https://sconeforgemystic.com/) (tabletop gaming (also some scone recipes))
+
+* * *
+
+> For me, the first challenge for computing science is to discover how to maintain order in a finite, but very large, discrete universe that is intricately intertwined. And a second, but not less important challenge is how to mould what you have achieved in solving the first problem, into a teachable discipline: it does not suffice to hone your own intellect (that will join you in your grave), you must teach others how to hone theirs. The more you concentrate on these two challenges, the clearer you will see that they are only two sides of the same coin: teaching yourself is discovering what is teachable.
+> — _Edsger Dijkstra_

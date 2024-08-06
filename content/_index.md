@@ -11,6 +11,7 @@ I'm a software developer in Seattle who also does some tabletop gaming and cooki
 You can reach me via:
 
 - **email:** [david@hollis.computer](mailto:david@hollis.computer)  
+- **bluesky:** [@hollis.computer](https://bsky.app/profile/hollis.computer)
 - **twitter:** [@david_hollis](https://twitter.com/david_hollis)  
 - **github:** [davidhollis](https://github.com/davidhollis)
 

@@ -4,7 +4,7 @@ date: 2024-10-23T23:45:12Z
 draft: false
 author: hollis
 authorTwitter: "david_hollis"
-toc: true
+toc: false
 ---
 
 It's been a wild one. 500+ Magic players met in Madison, WI to draft some cubes. Some were in it for the competition (top prizes provided by WotC and Daybreak Games), but I was there to draft the weirdest cubes I could. I'm a serial cube designer myself, and more than anything else I wanted to see some of the creative energy that other prominent designers were putting into their environments.
